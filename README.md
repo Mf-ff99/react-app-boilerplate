@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Get Started with React-App Website Boilerplate!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Clone this repo to start off your website with react-router, Sass, and a dynamic mobile-friendly navbar with styled-components.
 
 ## Available Scripts
 
